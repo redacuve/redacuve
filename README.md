@@ -1,11 +1,11 @@
-<h1 align="center">Hi World, I'm Rey David Cuevas Vela</h1>
+<h1 align="center">"Hello World", I'm Rey David Cuevas Vela</h1>
 <h3 align="center">A passionate Full-Stack Developer from Xalapa, México. Experience with Rails, Ruby, React & Redux, Javascript, CSS & HTML.</h3>
 
 - 🌱 I’m currently learning **Go & Typescript**
 
 - 💬 Ask me about **Literal everything, also I can help you with your Rails / React Projects.**
 
-- 📫 How to reach me **redacuve@gmail.com**
+- 📫 How to reach me **redacuve@gmail.com** - **https://www.linkedin.com/in/redacuve/** - **https://twitter.com/redacuve**
 
 - ⚡ Fun fact **I can cook the most amazing "Tacos al Pastor".**
 
