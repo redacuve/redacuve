@@ -1,7 +1,7 @@
 <h1 align="center">"Hello World", I'm Rey David Cuevas Vela</h1>
 <h3 align="center">A passionate Full-Stack Developer from Xalapa, México. Living in CDMX 🇲🇽. Experience with Rails, Ruby, React & Redux, Javascript, Typescript, CSS & HTML.</h3>
 
-- 🌱 I’m currently learning **Kotlin & Go**
+- 🌱 I’m currently learning **Clojure & Go**
 
 - 💬 Ask me about **Literal everything, also I can help you with your Rails / React Projects.**
 
